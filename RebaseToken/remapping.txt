@@ -1,0 +1,3 @@
+// remappings.txt
+@openzeppelin/=lib/openzeppelin-contracts/
+@ccip/=lib/ccip/
